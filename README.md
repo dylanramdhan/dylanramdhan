@@ -1,4 +1,4 @@
-### Hey, I'm Dylan! 👨🏽‍💻
+## 👨🏽‍💻 Hey, I'm Dylan! 
 My name is Dylan and I'm currently a junior, majoring in Computer Engineering at Boston University!
 
 📍 Boston, MA <br>
@@ -6,7 +6,7 @@ My name is Dylan and I'm currently a junior, majoring in Computer Engineering at
 🏫 Boston University
 
 
-Welcome to my GitHub page! 
+# Welcome to my GitHub page! 
 
   
 <!--
