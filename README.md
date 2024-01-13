@@ -1,15 +1,16 @@
 # ✌🏽👨🏽‍💻 Hey, I'm Dylan! 
 ## Welcome to my GitHub page!
-\My name is Dylan and I'm currently a junior, majoring in Computer Engineering, minoring in Computer Science at Boston University! My love for learning grows every inch of the way of learning
+My name is Dylan and I'm currently a junior, majoring in Computer Engineering, minoring in Computer Science at Boston University! My love and passion for learning hardware and software grows exponentially as I learn. Feel free to check out some of my projects in my repos!
 
 📍 Boston, MA <br>
 👨🏽‍🎓 Computer Engineering, minoring in Computer Science (Junior) <br>
 🏫 Boston University
 
 ## My Skillset
-🎛️ Git, GitHub<br>
+
 📲 AndroidStudio, Xcode<br>
-💻 C++, C, Python, Java, JavaScript, Verilog <br>
+💻 C++, C, Python, Java, JavaScript, HTML, CSS, Verilog, MIPS Assembly, x86 Assmebly <br>
+🧑‍💻 Git, GitHub, Docker <br>
 
  
 
