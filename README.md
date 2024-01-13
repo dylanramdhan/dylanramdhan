@@ -2,7 +2,7 @@
 My name is Dylan and I'm currently a junior, majoring in Computer Engineering at Boston University!
 
 📍 Boston, MA <br>
-👨🏽‍🎓 Computer Engineering (Junior) <br>
+👨🏽‍🎓 Computer Engineering, minoring in Computer Science (Junior) <br>
 🏫 Boston University
 
 
