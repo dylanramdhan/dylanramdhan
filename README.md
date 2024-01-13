@@ -5,7 +5,7 @@ My name is Dylan and I'm currently a junior, majoring in Computer Engineering, m
 👨🏽‍🎓 Computer Engineering, minoring in Computer Science (Junior) <br>
 🏫 Boston University
 
-# Skills
+## Skills
 C++ <br>
 
 ## Welcome to my GitHub page! 
