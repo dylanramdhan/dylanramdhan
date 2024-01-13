@@ -6,7 +6,10 @@ My name is Dylan and I'm currently a junior, majoring in Computer Engineering at
 🏫 Boston University
 
 
-#Welcome to my GitHub page! 
+Welcome to my GitHub page! 
+
+  
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,8 +19,8 @@ My name is Dylan and I'm currently a junior, majoring in Computer Engineering at
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
-<!--
+
+
 **dylanramdhan/dylanramdhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
