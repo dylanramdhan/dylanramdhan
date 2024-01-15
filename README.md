@@ -1,6 +1,6 @@
 # ✌🏽👨🏽‍💻 Hey, I'm Dylan! 
 ## Welcome to my GitHub!
-I am a junior, majoring in Computer Engineering with a minor in Computer Science at Boston University! My love and interest for hardware and software developments could truly be seen through my various projects and courseworks. Every assignment that I do, I always love to learn something new and apply it towards a given project. Feel free to check out some of my projects in my repos below!
+I am a junior, majoring in Computer Engineering with a minor in Computer Science at Boston University! My love and interest for hardware and software developments could truly be seen through my various projects and coursework. In every assingment that I learn from, I always love to turn around and apply my knowledge in the applications through personal projects. Feel free to check out some of my projects in my repos below!
 
 📍 Boston, MA <br>
 👨🏽‍🎓 Computer Engineering, minor in Computer Science (Junior) <br>
