@@ -8,7 +8,7 @@ I am a junior majoring in Computer Engineering with a minor in Computer Science 
 🤩 Fun Fact: My first programming lanauge I learned was C++!!
 
 ## My Skillset
-📲 Android Studio, Xcode<br>
+📲 Android Studio, Xcode, React<br>
 💻 Python, Java, JavaScript, C++, C, C#, HTML, CSS, Node.js, MATLAB, SQL, Bash, Shell Script, MongoDB, Verilog, Assmebly <br>
 💾 Arduino, ESP32, Raspberry Pi, FPGA, RTOS, IoT<br>
 🖥️ MacOS, Windows, Linux <br>
