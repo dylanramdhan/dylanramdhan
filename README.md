@@ -3,8 +3,8 @@
 I am a junior majoring in Computer Engineering with a minor in Computer Science at Boston University! Ever since I could remember, I always enjoyed the love of learning technical aspects of electronics. Always questioning the way electronics work with its seamless designs with such intricate mechanisms. Ever since I started college, I've always enjoyed improving and honing my skills as I know one day I'll be able to master them.
 
 📍 Boston, MA <br>
-👨🏽‍🎓 Computer Engineering, minor in Computer Science (Junior) <br>
-🏫 Boston University
+👨🏽‍🎓 Computer Engineering, minor in Computer Science <br>
+🏫 Boston University <br>
 🤩 Fun Fact: My first programming lanauge I learned was C++!!
 
 ## My Skillset
