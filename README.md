@@ -5,7 +5,7 @@ I am a junior majoring in Computer Engineering with a minor in Computer Science 
 📍 Boston, MA <br>
 👨🏽‍🎓 Computer Engineering, minor in Computer Science <br>
 🏫 Boston University <br>
-🤩 Fun Fact: My first programming lanauge I learned was C++!!
+🤩 Fun Fact: My first programming language I learned was C++!!
 
 ## My Skillset
 📲 Android Studio, Xcode, React<br>
