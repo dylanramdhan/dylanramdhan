@@ -7,7 +7,7 @@ I am a junior majoring in Computer Engineering with a minor in Computer Science 
 🏫 Boston University <br>
 🤩 Fun Fact: My first programming language I learned was C++!!
 
-## My Skillset
+## My Skillsets
 📲 Android Studio, Xcode, React<br>
 💻 Python, Java, JavaScript, C++/C, C#, HTML, CSS, Node.js, MATLAB, SQL, UNIX/Bash, Shell Script, MongoDB, Verilog, Assembly <br>
 💾 Arduino, ESP32, Raspberry Pi, FPGA, RTOS, IoT<br>
