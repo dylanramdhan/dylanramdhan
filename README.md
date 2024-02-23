@@ -9,7 +9,7 @@ I am a junior majoring in Computer Engineering with a minor in Computer Science 
 
 ## My Skillset
 📲 Android Studio, Xcode, React<br>
-💻 Python, Java, JavaScript, C++, C, C#, HTML, CSS, Node.js, MATLAB, SQL, Bash, Shell Script, MongoDB, Verilog, Assembly <br>
+💻 Python, Java, JavaScript, C++, C, C#, HTML, CSS, Node.js, MATLAB, SQL, UNIX/Bash, Shell Script, MongoDB, Verilog, Assembly <br>
 💾 Arduino, ESP32, Raspberry Pi, FPGA, RTOS, IoT<br>
 🖥️ MacOS, Windows, Linux <br>
 🧑‍💻 Git, GitHub, Docker, AutoCAD <br>
