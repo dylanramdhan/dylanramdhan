@@ -1,5 +1,5 @@
-# ✌🏽👨🏽‍💻 Hey, I'm Dylan! 
-## Welcome to my GitHub!
+## ✌🏽👨🏽‍💻 Hey, I'm Dylan! 
+### Welcome to my GitHub!
 I am a junior majoring in Computer Engineering with a minor in Computer Science at Boston University! Ever since I could remember, I always enjoyed the love of learning technical aspects of electronics. Always questioning the way electronics work with its seamless designs with such intricate mechanisms. Ever since I started college, I've always enjoyed improving and honing my skills as I know one day I'll be able to master them.
 
 📍 Boston, MA <br>
@@ -7,7 +7,7 @@ I am a junior majoring in Computer Engineering with a minor in Computer Science 
 🏫 Boston University <br>
 🤩 Fun Fact: My first programming language I learned was C++!!
 
-## My Skillsets
+### My Skillsets
 📲 Android Studio, Xcode, React<br>
 💻 Python, Java, JavaScript, C++/C, C#, HTML, CSS, Node.js, MATLAB, SQL, UNIX/Bash, Shell Script, MongoDB, Verilog, Assembly <br>
 💾 Arduino, ESP32, Raspberry Pi, FPGA, RTOS, IoT Systems<br>
