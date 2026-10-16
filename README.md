@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋, Check out my GitHub page!</h2>
+<h2 align="center">Hey there 👋, Welcome to my GitHub page!</h2>
 
 <!--
 **dylanramdhan/dylanramdhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
